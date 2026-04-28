@@ -43,9 +43,7 @@
 - 
 ### 🚀 Deployment Platforms
 - GitHub Pages  
-- Vercel  
-- (others you use)  
-
+- Vercel   
 ---
 
 ## 📈 Currently
@@ -56,7 +54,7 @@
 
 ## 📫 Contact
 - 📧 Email: dylantempra1@gmail.com
-- 💼 GitHub:   
+- 💼 GitHub: https://github.com/Tempra123  
 
 ---
 
