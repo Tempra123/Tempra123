@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Dylan Alex Temprano 
 
-<!--
-**Tempra123/Tempra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Engineering student at Universidad Mayor de San Simón (UMSS)  
+💡 Passionate about technology, software development, and continuous learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🧠 Interested in software development and problem solving  
+- 📚 Currently learning new technologies and best practices  
+- ⚡ I enjoy working on practical projects and constantly improving my skills  
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+- Java ☕ ### 💻 Programming Languages
+
+- Java ☕ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/>
+
+- Python 🐍
+- 
+- JavaScript ⚡  
+
+### ⚙️ Frameworks & Libraries
+- (e.g. Spring Boot, React, Django, etc.)  
+
+### 🗄️ Databases
+- MySQL 🐬  
+- PostgreSQL 🐘  
+
+### 🧰 Tools
+- Git & GitHub 🔧  
+- VS Code 🖥️  
+- Linux 🐧  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript  
+
+### 📱 Mobile Development
+- (Flutter / Android / etc if applicable)  
+
+### 🚀 Deployment Platforms
+- GitHub Pages  
+- Vercel  
+- (others you use)  
+
+---
+
+## 📈 Currently
+- 🌱 Learning more about backend development and best practices  
+- 🤝 Looking to collaborate on projects  
+
+---
+
+## 📫 Contact
+- 📧 Email: your@email.com  
+- 💼 GitHub: https://github.com/yourusername  
+
+---
+
+✨ *Always learning and improving...*
