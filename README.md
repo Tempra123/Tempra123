@@ -15,34 +15,32 @@
 ## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
-- Java ☕ ### 💻 Programming Languages
-
-- Java ☕ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/>
-
-- Python 🐍
-- 
-- JavaScript ⚡  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java ☕
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python 🐍
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript ⚡
 
 ### ⚙️ Frameworks & Libraries
-- (e.g. Spring Boot, React, Django, etc.)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/> Spring Boot
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/> Django
 
 ### 🗄️ Databases
-- MySQL 🐬  
-- PostgreSQL 🐘  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL 🐬
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL 🐘
 
 ### 🧰 Tools
-- Git & GitHub 🔧  
-- VS Code 🖥️  
-- Linux 🐧  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git & GitHub 🔧
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> VS Code 🖥️
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/> Linux 🐧
 
 ### 🌐 Web Development
-- HTML  
-- CSS  
-- JavaScript  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript ⚡
 
 ### 📱 Mobile Development
-- (Flutter / Android / etc if applicable)  
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/> Flutter
+- 
 ### 🚀 Deployment Platforms
 - GitHub Pages  
 - Vercel  
@@ -57,8 +55,8 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: your@email.com  
-- 💼 GitHub: https://github.com/yourusername  
+- 📧 Email: dylantempra1@gmail.com
+- 💼 GitHub:   
 
 ---
 
